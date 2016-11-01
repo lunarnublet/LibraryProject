@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
-  <IisApp path="D:\Web\LibraryWebPage\LibraryWebPage\obj\Release\Package\PackageTmp" />
-  <setAcl path="D:\Web\LibraryWebPage\LibraryWebPage\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
-  <setAcl path="D:\Web\LibraryWebPage\LibraryWebPage\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <IisApp path="D:\Web\LibraryProject\LibraryProject\LibraryWebPage\LibraryWebPage\obj\Release\Package\PackageTmp" />
+  <setAcl path="D:\Web\LibraryProject\LibraryProject\LibraryWebPage\LibraryWebPage\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\Web\LibraryProject\LibraryProject\LibraryWebPage\LibraryWebPage\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
 </sitemanifest>
