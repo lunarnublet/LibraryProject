@@ -31,6 +31,7 @@ rcf/
 
 # Visual Studio user-specific files
 ## Useful whenever working as part of a team or on software (like open source) that others will download
+.vs/
 *.suo
 *.user
 
